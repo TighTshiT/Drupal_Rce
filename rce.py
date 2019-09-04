@@ -7,7 +7,7 @@ a='''
   \033[31m                                      
  Anoymous X - Protocol         
 \033[33m
-               BY Azeroth   \033[32m                                                   
+         Drupal RCE BY Azeroth   \033[32m                                                   
 '''
 print(a)
 HOST= input("site name?: ")
